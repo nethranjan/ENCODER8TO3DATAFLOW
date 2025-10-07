@@ -51,6 +51,10 @@ Developed by: RegisterNumber:
 
 **RESULTS**
 
+<img width="1055" height="925" alt="Screenshot 2025-10-07 200036" src="https://github.com/user-attachments/assets/50f0bc76-15eb-466b-8197-9da448f2d8f5" />
+
+
+<img width="1919" height="527" alt="Screenshot 2025-10-07 200253" src="https://github.com/user-attachments/assets/6de2b2eb-fecf-4a37-b7be-3548e343371e" />
 
 
 
